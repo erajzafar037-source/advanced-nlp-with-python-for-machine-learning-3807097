@@ -8,7 +8,14 @@ This course is for anyone who wants to learn more advanced NLP methods. Instruct
 
 ### Instructor
 
-![avatar]
+"Introduction to spaCy" video:
+
+Efficiency and High Performance: spaCy is designed for efficiency and high performance in NLP tasks.
+Processing Pipeline: spaCy organizes NLP tasks into a processing pipeline involving tokenization, part of speech tagging, named entity recognition, and other linguistic analyses.
+NLP Object: When you load a spaCy model using spacy.load, you get an NLP object that contains the language model and processing pipeline, which can be used to process text and return a doc object with analyzed information.
+
+These points should give you a good overview of what spaCy offers and how it works.
+
 
 Gwendolyn Stripling
 
